@@ -1,1 +1,11 @@
-!
+#menu
+{
+    padding-top: 50% ;
+    background-color: blueviolet;
+    color: bisque;
+    font:bolder;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content:space-between:
+}
